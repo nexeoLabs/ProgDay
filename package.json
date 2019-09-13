@@ -1,0 +1,19 @@
+{
+  "name": "ProgDay",
+  "version": "0.0.1",
+  "description": "A simple ERC20 for programmers day",
+  "scripts": {
+    "test": "embark test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "embarkjs-connector-web3": "^4.0.0"
+  },
+  "gitHead": "21f5367bebe10594ffcc26f3aa4b574b1226472a",
+  "dependencies": {
+    "eth-lightwallet": "^4.0.0",
+    "openzeppelin-solidity": "^2.3.0"
+  }
+}
